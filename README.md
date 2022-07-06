@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AtenaAT
-- 👀 I’m interested in pyhton, Django web application, databases design, ...
+- 👀 I’m interested in pyhton application, Django web application, databases design, ...
 
 
 <!---
