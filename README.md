@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AtenaAT
-- 👀 I’m interested in python application, Django web application, databases design, ...
+- 👋 Hi, I’m @AtenaAT trying to be  Data Scientist.
+- 👀 I’m interested in python , databases , data analyzing ...
 
 
 <!---
