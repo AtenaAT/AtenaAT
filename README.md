@@ -1,5 +1,6 @@
 # 💫 About Me:
-<br> I’m trying to be Data Scientist.<br> I’m interested in python , databases , data analyzing ...<br> I'm currently learning deep concept of data analysis and machine leaning<br><br>
+<br> Hey all I'm Atena! <br>
+<br> I’m trying to be Data Scientist.<br> I’m interested in python , databases , data analyzing ...<br> I'm currently learning deep concept of data analysis and machine leaning.<br><br>
 
 
 # 💻 Tech Stack:
